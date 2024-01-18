@@ -1,2 +1,3 @@
 # MalihaKhan
-This is my repository
+This is my first repository
+I have to do my best in 2nd sem but my laziness .....
